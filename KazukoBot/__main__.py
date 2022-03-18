@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there, I'm Kazuko,
+Hey there, I'm Shikimori Micchon,
 
 I am an Anime themed group management bot
 to help maintaining groups with my super advanced features.
@@ -97,7 +97,7 @@ buttons = [
       ],
     [
         InlineKeyboardButton(
-            text="️Add Kazuko to your group", url="t.me/KazukoRobot?startgroup=true",
+            text="️Add Kazuko to your group", url="t.me/ShikimoriMicchonRobot?startgroup=true",
         ),
     ],
     [ 
@@ -107,7 +107,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey there! My name is Kazuko.
+Hey there! My name is Shikimori.
 Have a look at the following for an idea of some of
 the things I can help you with.
 Main commands available:
